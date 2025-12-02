@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Projet/Scenes/GameManager.unity
+    guid: b87eaa8d2b1c6924fbc0393a9928114b
+  - enabled: 1
+    path: Assets/_Projet/Scenes/Menu.unity
+    guid: ef2114742b52f684a824ea01190563dd
+  - enabled: 1
+    path: Assets/_Projet/Scenes/AllMaps.unity
+    guid: adea2ce0768fa7743aa90fb95b21d6b5
+  - enabled: 1
+    path: Assets/_Projet/Scenes/Player.unity
+    guid: bbfbb0050110db645bea675c929ad8f8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,997 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8236969978780032606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/ObjHit
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/ObjHit
+  Guid:
+    Data1: 503113637
+    Data2: 1332239908
+    Data3: 1870592947
+    Data4: -1206163336
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 498
+--- !u!114 &-8232045828530800159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Heavy/SpinAtkk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Heavy/SpinAtkk
+  Guid:
+    Data1: -437171886
+    Data2: 1126388098
+    Data3: -1907938432
+    Data4: 1336095049
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1674087866340404041}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 800
+--- !u!114 &-8049240075122255726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/DashReload
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/DashReload
+  Guid:
+    Data1: 42352618
+    Data2: 1284624160
+    Data3: 1720054668
+    Data4: -1057089736
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 502
+--- !u!114 &-6793118644910037855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mobs/AztecAtk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Mobs/AztecAtk
+  Guid:
+    Data1: 476168368
+    Data2: 1283694437
+    Data3: -144203344
+    Data4: -1035119127
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 45
+  Length: 1510
+--- !u!114 &-6592678708481388026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Test Event
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Test Event
+  Guid:
+    Data1: 275963387
+    Data2: 1215531948
+    Data3: 1998612656
+    Data4: 455859720
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1906
+--- !u!114 &-5515123848418143600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: Assets/Audio/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638983165252541195
+  FileSizes:
+  - Name: 
+    Value: 2196
+  Exists: 1
+--- !u!114 &-4925557307134108809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/EchoSpinCharging1
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: EchoSpinCharging1
+  StudioPath: parameter:/EchoSpinCharging1
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1531468705
+    data2: 2451217611
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &-4597721279940723633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/EchoSpinAtk/EchoSpinCharging1
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: EchoSpinCharging1
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1531468705
+    data2: 2451217611
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &-3462067520400315212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Echoes/EchoDash
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Echoes/EchoDash
+  Guid:
+    Data1: -1959755929
+    Data2: 1165390385
+    Data3: -995768913
+    Data4: 1054150124
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 20
+  Length: 1044
+--- !u!114 &-3295643902856707876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Slash/AtkSlash2
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Slash/AtkSlash2
+  Guid:
+    Data1: -31743281
+    Data2: 1192599754
+    Data3: 966563469
+    Data4: -1095078909
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 454
+--- !u!114 &-3145228871630356843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/EchoSpinCharge/EchoSpinCharging1
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: EchoSpinCharging1
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1531468705
+    data2: 2451217611
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &-2530096896130076767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Dash/Dashing
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: Dashing
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1789406723
+    data2: 2200940448
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &-2211806179734932589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/HeavyCharging
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: HeavyCharging
+  StudioPath: parameter:/HeavyCharging
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2279122527
+    data2: 3813018049
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &-2126417697310120590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TimelineSwitch
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/TimelineSwitch
+  Guid:
+    Data1: -261306104
+    Data2: 1195318065
+    Data3: -1820041586
+    Data4: 335536695
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3858
+--- !u!114 &-1581019037496848088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Echoes/EchoSlash1
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Echoes/EchoSlash1
+  Guid:
+    Data1: 622193858
+    Data2: 1272324511
+    Data3: -1547173703
+    Data4: 1628743580
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1807
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EventCache
+  EditorBanks:
+  - {fileID: -5515123848418143600}
+  - {fileID: 1282325472969011692}
+  EditorEvents:
+  - {fileID: -2126417697310120590}
+  - {fileID: -8232045828530800159}
+  - {fileID: 4193696094553865676}
+  - {fileID: 1815322839482575109}
+  - {fileID: 1293110694570011045}
+  - {fileID: -8236969978780032606}
+  - {fileID: 6946811736148985269}
+  - {fileID: 3484671739506079133}
+  - {fileID: -3295643902856707876}
+  - {fileID: 8767427466000789887}
+  - {fileID: 3552694937151589426}
+  - {fileID: -8049240075122255726}
+  - {fileID: 7486471905475208563}
+  - {fileID: -6592678708481388026}
+  - {fileID: 375985894263131621}
+  - {fileID: -6793118644910037855}
+  - {fileID: 5397114358393641614}
+  - {fileID: 989381064813939349}
+  - {fileID: 7536182581633500449}
+  - {fileID: 7790553161542478046}
+  - {fileID: -3462067520400315212}
+  - {fileID: 3359105501199950155}
+  - {fileID: -1581019037496848088}
+  EditorParameters:
+  - {fileID: -2211806179734932589}
+  - {fileID: 5723034726521458583}
+  - {fileID: -4925557307134108809}
+  MasterBanks:
+  - {fileID: 1282325472969011692}
+  StringsBanks:
+  - {fileID: -5515123848418143600}
+  cacheVersion: 131856
+  cacheTime: 638983220720435720
+  SerializableEventsDict:
+  - key: event:/TimelineSwitch
+    index: 0
+  - key: event:/PlayerAtks/Heavy/SpinAtkk
+    index: 1
+  - key: event:/PlayerAtks/Slash/AtkSlash1
+    index: 2
+  - key: event:/PlayerAtks/Slash/AtkSlash3
+    index: 3
+  - key: event:/PlayerAtks/HitTake
+    index: 4
+  - key: event:/ObjHit
+    index: 5
+  - key: event:/PlayerAtks/Dash
+    index: 6
+  - key: event:/ObjDestroyed
+    index: 7
+  - key: event:/PlayerAtks/Slash/AtkSlash2
+    index: 8
+  - key: event:/Healing
+    index: 9
+  - key: event:/PlayerAtks/Heavy/SpinCharge
+    index: 10
+  - key: event:/PlayerAtks/DashReload
+    index: 11
+  - key: event:/Music
+    index: 12
+  - key: event:/Test Event
+    index: 13
+  - key: event:/MusicB
+    index: 14
+  - key: event:/Mobs/AztecAtk
+    index: 15
+  - key: event:/Mobs/RomanAtk
+    index: 16
+  - key: event:/Mobs/MobDead
+    index: 17
+  - key: snapshot:/Healing
+    index: 18
+  - key: event:/PlayerAtks/Echoes/EchoSpinAtk
+    index: 19
+  - key: event:/PlayerAtks/Echoes/EchoDash
+    index: 20
+  - key: event:/PlayerAtks/Echoes/EchoSpinCharge
+    index: 21
+  - key: event:/PlayerAtks/Echoes/EchoSlash1
+    index: 22
+--- !u!114 &375985894263131621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MusicB
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/MusicB
+  Guid:
+    Data1: -1686713842
+    Data2: 1274144764
+    Data3: 1131384460
+    Data4: -829090694
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 94569
+--- !u!114 &989381064813939349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mobs/MobDead
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Mobs/MobDead
+  Guid:
+    Data1: 643943685
+    Data2: 1259817728
+    Data3: -411090534
+    Data4: 1370259543
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0.7
+  MaxDistance: 40
+  Length: 2690
+--- !u!114 &1282325472969011692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: Assets/Audio/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638983220720435720
+  FileSizes: []
+  Exists: 1
+--- !u!114 &1293110694570011045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/HitTake
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/HitTake
+  Guid:
+    Data1: -336162139
+    Data2: 1233928985
+    Data3: -352566370
+    Data4: -2038878647
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 285
+--- !u!114 &1327152310591610235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/SpinCharge/Dashing
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: Dashing
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1789406723
+    data2: 2200940448
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &1674087866340404041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/SpinAtkk/Dashing
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: Dashing
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1789406723
+    data2: 2200940448
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &1815322839482575109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Slash/AtkSlash3
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Slash/AtkSlash3
+  Guid:
+    Data1: -734461034
+    Data2: 1078089777
+    Data3: 1893238180
+    Data4: 196745044
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 470
+--- !u!114 &3359105501199950155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Echoes/EchoSpinCharge
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Echoes/EchoSpinCharge
+  Guid:
+    Data1: 1938043327
+    Data2: 1297170351
+    Data3: -1545466190
+    Data4: -1757417146
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -3145228871630356843}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6500
+--- !u!114 &3484671739506079133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/ObjDestroyed
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/ObjDestroyed
+  Guid:
+    Data1: -693186125
+    Data2: 1232967762
+    Data3: -660034400
+    Data4: 1265738899
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2519
+--- !u!114 &3552694937151589426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Heavy/SpinCharge
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Heavy/SpinCharge
+  Guid:
+    Data1: 1246497257
+    Data2: 1260114990
+    Data3: -1401015151
+    Data4: -2139552689
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1327152310591610235}
+  - {fileID: 4933789198401048072}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5000
+--- !u!114 &4193696094553865676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Slash/AtkSlash1
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Slash/AtkSlash1
+  Guid:
+    Data1: -1916744620
+    Data2: 1254522599
+    Data3: 1661485457
+    Data4: 1145411728
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 463
+--- !u!114 &4933789198401048072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/SpinCharge/HeavyCharging
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: HeavyCharging
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2279122527
+    data2: 3813018049
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &5397114358393641614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Mobs/RomanAtk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Mobs/RomanAtk
+  Guid:
+    Data1: -803834785
+    Data2: 1115032768
+    Data3: 1174948512
+    Data4: 1620213105
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 45
+  Length: 844
+--- !u!114 &5723034726521458583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Dashing
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorParamRef
+  Name: Dashing
+  StudioPath: parameter:/Dashing
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1789406723
+    data2: 2200940448
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - No
+  - Yes
+  Exists: 1
+--- !u!114 &6946811736148985269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Dash
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Dash
+  Guid:
+    Data1: 1417656234
+    Data2: 1335055055
+    Data3: 1919926402
+    Data4: -214034456
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -2530096896130076767}
+  MinDistance: 0
+  MaxDistance: 20
+  Length: 800
+--- !u!114 &7486471905475208563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Music
+  Guid:
+    Data1: -1234995726
+    Data2: 1227026600
+    Data3: -211285078
+    Data4: -1276208330
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 197146
+--- !u!114 &7536182581633500449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Healing
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: snapshot:/Healing
+  Guid:
+    Data1: -782032660
+    Data2: 1074986852
+    Data3: 162568080
+    Data4: 1330325262
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &7790553161542478046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PlayerAtks/Echoes/EchoSpinAtk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/PlayerAtks/Echoes/EchoSpinAtk
+  Guid:
+    Data1: -891411400
+    Data2: 1286544123
+    Data3: -563598699
+    Data4: -356289678
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -4597721279940723633}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1409
+--- !u!114 &8767427466000789887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Healing
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Healing
+  Guid:
+    Data1: 259793621
+    Data2: 1328383772
+    Data3: 169005990
+    Data4: -1549117502
+  Banks:
+  - {fileID: 1282325472969011692}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13120

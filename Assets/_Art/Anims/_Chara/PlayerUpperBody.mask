@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerUpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Geo
+    m_Weight: 0
+  - m_Path: Geo/Player
+    m_Weight: 0
+  - m_Path: Skeleton
+    m_Weight: 0
+  - m_Path: Skeleton/j_pelvis
+    m_Weight: 0
+  - m_Path: Skeleton/j_pelvis/j_hip
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_L/j_uppearm_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_L/j_uppearm_L/j_forearm_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_L/j_uppearm_L/j_forearm_L/j_hand_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_R
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_R/j_uppearm_R
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_R/j_uppearm_R/j_forearm_R
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_clavicle_R/j_uppearm_R/j_forearm_R/j_hand_R
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_neck
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_hip/j_abs/j_chest_01/j_chest_02/j_neck/j_head
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_leg_L
+    m_Weight: 0
+  - m_Path: Skeleton/j_pelvis/j_leg_L/j_calf_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_leg_L/j_calf_L/j_foot_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_leg_L/j_calf_L/j_foot_L/j_toe_L
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_leg_R
+    m_Weight: 0
+  - m_Path: Skeleton/j_pelvis/j_leg_R/j_calf_R
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_leg_R/j_calf_R/j_foot_R
+    m_Weight: 1
+  - m_Path: Skeleton/j_pelvis/j_leg_R/j_calf_R/j_foot_R/j_toe_R
+    m_Weight: 1

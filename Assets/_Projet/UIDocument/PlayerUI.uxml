@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/_Projet/UIDocument/PlayerUI.uss?fileID=7433441132597879392&amp;guid=8f1484d7c0e207c4dacd6eed2651289b&amp;type=3#PlayerUI" />
+    <ui:VisualElement name="hud-root" class="hud-root">
+        <ui:VisualElement name="chargebar" class="chargebar" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Clone.png?fileID=21300000&amp;guid=a1f03fcb54c03114d95e0b7acfe0ec46&amp;type=3#Clone&quot;); background-size: 100% 100%; background-repeat: no-repeat; position: absolute; height: 3px; width: 68px; top: 32px; left: 67px;" />
+        <ui:VisualElement name="dash-container" class="dash-container">
+            <ui:VisualElement name="dash1" class="dash-icon" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Stack_Dash.png?fileID=21300000&amp;guid=92802218465e9f247a7267164987793f&amp;type=3#Stack_Dash&quot;); position: absolute; top: 6px; left: 0; height: 2px; width: 18px;" />
+            <ui:VisualElement name="dash2" class="dash-icon" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Stack_Dash.png?fileID=21300000&amp;guid=92802218465e9f247a7267164987793f&amp;type=3#Stack_Dash&quot;); position: absolute; top: 6px; left: 20px; height: 2px; width: 18px;" />
+            <ui:VisualElement name="dash3" class="dash-icon" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Stack_Dash.png?fileID=21300000&amp;guid=92802218465e9f247a7267164987793f&amp;type=3#Stack_Dash&quot;); position: absolute; top: 6px; left: 41px; height: 2px; width: 17px;" />
+            <ui:VisualElement name="dash4" class="dash-icon" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Stack_Dash.png?fileID=21300000&amp;guid=92802218465e9f247a7267164987793f&amp;type=3#Stack_Dash&quot;); position: absolute; top: 6px; left: 61px; height: 2px; width: 18px;" />
+            <ui:VisualElement name="dash5" class="dash-icon" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Stack_Dash.png?fileID=21300000&amp;guid=92802218465e9f247a7267164987793f&amp;type=3#Stack_Dash&quot;); position: absolute; top: 6px; left: 81px; height: 2px; width: 18px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="hud-background" class="hud-background" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/LifeBarBack.png?fileID=21300000&amp;guid=0eed60d096b7a8d4db8cbfe80acbd657&amp;type=3#LifeBarBack&quot;); background-size: 100% 100%; background-repeat: no-repeat; width: 178px; height: 36px; position: absolute; top: 7px; left: -1px;" />
+        <ui:VisualElement name="lifebar-mask" class="lifebar-mask" style="position: absolute; width: 178px; height: 36px; top: 7px; left: -1px; overflow: hidden;">
+            <ui:VisualElement name="lifebar" class="lifebar" style="background-image: url(&quot;project://database/Assets/_Art/Sprites/Menu/UI/Health.png?fileID=21300000&amp;guid=a28d199305790254086ec6ad4e3e8374&amp;type=3#Health&quot;); background-size: 100% auto; background-repeat: no-repeat; background-position: left center; position: absolute; height: 25px; width: 182px; top: 5px; left: -2px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

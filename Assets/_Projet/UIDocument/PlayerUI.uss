@@ -1,0 +1,59 @@
+/* === Root === */
+.hud-root {
+    width: 178px;
+    height: 42px;
+}
+
+/* === Mask & Bar === */
+.lifebar-mask {
+    position: absolute;
+    overflow: hidden;
+    width: 178px;
+    height: 36px;
+    top: 7px;
+    left: -1px;
+}
+
+.lifebar {
+    position: absolute;
+    width: 178px;
+    height: 36px;
+    background-size: 100% auto; /* remplit en largeur sans déformer verticalement */
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+/* === Background === */
+.hud-background {
+    position: absolute;
+    width: 178px;
+    height: 36px;
+    top: 7px;
+    left: -1px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+/* === Charge Bar === */
+.chargebar {
+    position: absolute;
+    height: 3px;
+    width: 65px;
+    top: 32px;
+    left: 63px;
+}
+
+/* === Dash Container === */
+.dash-container {
+    top: 3px;
+    left: 12px;
+    width: 145px;
+    height: 10px;
+}
+
+/* === Dash Icons === */
+.dash-icon {
+    width: 24px;
+    height: 8px;
+    opacity: 1;
+}
